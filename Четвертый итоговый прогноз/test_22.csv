@@ -1,0 +1,23 @@
+id;Id_razn;mean_words_comment;count_comments;project_id;Mesto_in_project;Year;Month;Day;Hour;DayOfWeek;assignee_id;creator_id;summary_to_eng;Text_Summa
+721893;0;0.0;0;13;8.63350485991995;2020;11;17;3;2;149;149;“Community” section, layout and components;“Community” section, layout and components
+721675;0;0.0;0;13;8.84124261482752;2020;12;3;14;4;107;107;Design Links in Canvas;Design Links in Canvas
+1840026;0;0.0;0;29;0.319829424307036;2021;5;16;23;7;291;291;Mega battery charger;Mega battery charger
+1040330;0;0.0;0;13;9.99618829807509;2021;2;11;13;4;107;107;Create quick template mockup;Create quick template mockup
+1263112;0;0.0;0;29;9.9680170575693;2021;3;27;19;6;1;291;Tests of a new power module with MPPT charging;Tests of a new power module with MPPT charging
+721322;0;0.0;0;13;9.17762530970078;2020;12;29;6;2;149;149;TeachMe - podcasts and audio courses (Screens, UI components, Layouts);TeachMe - podcasts and audio courses (Screens, UI components, Layouts)
+1200583;0;0.0;0;29;9.89339019189766;2021;3;10;16;3;291;291;Device tests after power optimization;Device tests after power optimization
+1484347;0;0.0;0;29;9.98933901918977;2021;4;12;19;1;291;291;solar panel logger;solar panel logger
+1484375;0;7.0;1;29;10.0;2021;4;12;19;1;291;291;Rollover to RPi;Rollover to RPi https://maddevs.atlassian.net/browse/MIC-5
+721803;0;0.0;0;13;8.71926815323042;2020;11;23;14;1;107;107;whiteboard design;whiteboard design
+721171;0;0.0;0;13;9.32151705736611;2021;1;7;13;4;107;107;Teach Me Concept Design;Teach Me Concept Design
+1066158;0;1.0;1;29;9.82942430703625;2021;2;26;8;5;403;403;Gaukhar Communications;Gaukhar Communications test
+1484347;0;0.0;0;29;9.98933901918977;2021;4;12;19;1;291;291;solar panel logger;solar panel logger
+1828683;0;0.0;0;29;0.245202558635394;2021;5;4;17;2;403;403;Gaukhar Communications;Gaukhar Communications
+1153669;0;0.0;0;29;9.85074626865672;2021;3;4;4;4;208;208;Communications (Dan);Communications (Dan)
+1828683;0;0.0;0;29;0.245202558635394;2021;5;4;17;2;403;403;Gaukhar Communications;Gaukhar Communications
+1848832;0;0.0;0;29;0.479744136460554;2021;5;25;1;2;291;291;Firmware;Firmware
+2104546;0;0.0;0;29;0.810234541577825;2021;7;1;17;4;403;403;Gaukhar Communications JULY 2021;Gaukhar Communications JULY 2021
+679000;0;0.0;0;48;1.26005361930295;2020;6;24;20;3;1;1;Change url structure for blog posts;Change url structure for blog posts
+1263114;0;0.0;0;29;9.95735607675906;2021;3;27;19;6;291;291;Set up logging on the prod;Set up logging on the prod
+721171;0;0.0;0;13;9.32151705736611;2021;1;7;13;4;107;107;Teach Me Concept Design;Teach Me Concept Design
+721445;0;0.0;0;13;9.06041547550982;2020;12;21;10;1;149;149;Update Appearance for Lesson Templates;Update Appearance for Lesson Templates
