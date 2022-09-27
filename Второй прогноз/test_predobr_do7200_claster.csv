@@ -1,0 +1,252 @@
+id;Id_razn;mean_words_comment;count_comments;project_id;Mesto_in_project;Year;Month;Day;Hour;DayOfWeek;assignee_id;creator_id;summary_to_eng;Text_Summa
+721915;0;0.0;0;13;8.61254049933295;2020;11;13;13;5;365;208;UI components: Published date doesn't display for quick and and onboarding template item in My templates;UI components: Published date doesn't display for quick and and onboarding template item in My templates
+721911;0;0.0;0;13;8.61635220125786;2020;11;13;15;5;82;82;Move elasticsearch from spot instances to ondemand;Move elasticsearch from spot instances to ondemand
+721907;0;12.0;1;13;8.62016390318277;2020;11;15;12;7;82;193;Website: Cast teacherly - close site and put on redirect to podcasts on website;"Website: Cast teacherly - close site and put on redirect to podcasts on website Created record.html; upload to s3 bucket."
+721902;0;0.0;0;13;8.62492853058891;2020;11;16;4;1;365;193;Need to fix mark up on mobile resolution;Need to fix mark up on mobile resolution
+721885;0;12.0;1;13;8.64112826376977;2020;11;17;8;2;365;365;[Markup] Select background modal;[Markup] Select background modal [https://www.loom.com/share/95d8aaf651a244719c2f8f6d4094ac85|https://www.loom.com/share/95d8aaf651a244719c2f8f6d4094ac85]
+721884;0;0.0;0;13;8.642081189251;2020;11;17;8;2;365;365;[Markup] Cover phase;[Markup] Cover phase
+721883;0;0.0;0;13;8.64303411473223;2020;11;17;8;2;365;365;[Markup] Update toolbar icons;[Markup] Update toolbar icons
+721882;0;0.0;0;13;8.64398704021346;2020;11;17;8;2;365;365;[Markup] Update template/assignment item(UI);[Markup] Update template/assignment item(UI)
+721869;0;0.0;0;13;8.65637507146941;2020;11;18;7;3;147;147;Create teacher tests with different plans;Create teacher tests with different plans
+721862;0;0.0;0;13;8.663045549838;2020;11;18;12;3;330;330;Add Tutorial subject;Add Tutorial subject
+721860;0;0.0;0;13;8.66495140080046;2020;11;18;13;3;365;365;[Markup] Add empty state for cover phase;[Markup] Add empty state for cover phase
+721857;0;0.0;0;13;8.66781017724414;2020;11;19;6;4;33;193;Mastery skills don't update instantly on the cover;Mastery skills don't update instantly on the cover
+721851;0;23.0;1;13;8.6735277301315;2020;11;19;7;4;365;193;Field with long name on the canvas in 1 line state when you try to rename;"Field with long name on the canvas in 1 line state when you try to rename This is correct behavior since input cannot be multiple lines. In other places with editable text (in the header; phases; sections) it works similarly"
+721833;0;9.0;1;13;8.6906803887936;2020;11;19;15;4;33;33;Subjects not found;Subjects not found fixed:
+721820;0;0.0;0;13;8.70306842004955;2020;11;20;11;5;330;147;"Make ""comment"" field at /student-dashboard/assignments/:id/feedback not mandatory";"Make ""comment"" field at /student-dashboard/assignments/:id/feedback not mandatory"
+721809;0;0.0;0;13;8.71355060034305;2020;11;23;8;1;365;365;Merge Whiteboard, Canvas and Agora components;Merge Whiteboard, Canvas and Agora components
+721807;0;0.0;0;13;8.71545645130551;2020;11;23;10;1;365;365;Create teacherly account on agora.io;Create teacherly account on agora.io
+721806;0;2.0;1;13;8.71640937678674;2020;11;23;12;1;330;193;Published templates show in My recent templates;Published templates show in My recent templates issue fixed
+721792;0;6.0;1;13;8.72975033352392;2020;11;24;10;2;86;147;2 - Last phases of assignment are not visible at assignment preview;2 - Last phases of assignment are not visible at assignment preview Issue is relevant on 13'' screens
+721791;0;0.0;0;13;8.73070325900515;2020;11;24;10;2;86;193;Incorrect quiz behavior in student dashboard;Incorrect quiz behavior in student dashboard
+721790;0;0.0;0;13;8.73165618448637;2020;11;24;11;2;86;193;Incorrect buttons behavior;Incorrect buttons behavior
+721786;1;18.5;2;13;8.73546788641128;2020;11;25;7;3;86;193;Incorrect text rendering in student's assignment preview;Incorrect text rendering in student's assignment preview [https://www.loom.com/share/0c85ff8f66ef4161a4601593c03abb5f|https://www.loom.com/share/0c85ff8f66ef4161a4601593c03abb5f][~accountid:5b67bcd8e6dba529eefda937] This is only on dev. There seems to be an old version of the AssignmentPreview component.
+721784;0;0.0;0;13;8.73737373737374;2020;11;25;8;3;365;365;[Frontend] Manage room settings;[Frontend] Manage room settings
+721783;0;0.0;0;13;8.73832666285496;2020;11;25;8;3;365;365;[Frontend] Ability to mute all students;[Frontend] Ability to mute all students
+721780;0;0.0;0;13;8.74118543929865;2020;11;25;8;3;365;365;[Frontend] Student can leave live lesson;[Frontend] Student can leave live lesson
+721779;0;0.0;0;13;8.74213836477987;2020;11;25;8;3;365;365;[Frontend] Prepare student's app;[Frontend] Prepare student's app
+721778;0;0.0;0;13;8.7430912902611;2020;11;25;8;3;365;365;[Frontend] Getting token from API;[Frontend] Getting token from API
+721775;0;0.0;0;13;8.74595006670478;2020;11;25;9;3;365;365;[Frontend] Students list dropdown;[Frontend] Students list dropdown
+721771;0;0.0;0;13;8.74976176862969;2020;11;25;14;3;33;33;Handle live lesson assignment phase switch;Handle live lesson assignment phase switch
+721770;0;0.0;0;13;8.75071469411092;2020;11;25;15;3;86;193;Website: Update the 'get involved CTA' to the resources section;Website: Update the 'get involved CTA' to the resources section
+721769;0;0.0;0;13;8.75166761959215;2020;11;25;16;3;365;33;Handle canvas-sketch ellipse, polygon, image elements;Handle canvas-sketch ellipse, polygon, image elements
+721737;0;0.0;0;13;8.78216123499142;2020;11;30;6;1;365;208;Can't bulid teacher ui app;Can't bulid teacher ui app
+721733;0;0.0;0;13;8.78597293691633;2020;11;30;9;1;86;86;Need to make the same page layout in student's app;Need to make the same page layout in student's app
+721726;0;0.0;0;13;8.79264341528492;2020;11;30;11;1;86;86;Need to add layout for the live lesson controls;Need to add layout for the live lesson controls
+721720;0;0.0;0;13;8.79836096817229;2020;12;1;5;2;1;86;Need to correct indents and size of whiteboard canvas in the student's app;Need to correct indents and size of whiteboard canvas in the student's app
+721696;0;0.0;0;13;8.82123117972175;2020;12;2;3;3;365;242;Fix the logic and passed data of Notifications in the students' app;Fix the logic and passed data of Notifications in the students' app
+721688;0;23.0;1;13;8.82885458357156;2020;12;2;10;3;82;193;Add TXT in DNS for teacherly.io;Add TXT in DNS for teacherly.io We already have
+721687;0;0.0;0;13;8.82980750905279;2020;12;2;12;3;82;365;Fix problems with docker hub;Fix problems with docker hub
+721679;0;0.0;0;13;8.83743091290261;2020;12;3;13;4;365;365;[Frontend] Switch between camera/canvas;[Frontend] Switch between camera/canvas
+721678;0;0.0;0;13;8.83838383838384;2020;12;3;13;4;365;365;[Fronted] Join screen;[Fronted] Join screen
+721676;0;0.0;0;13;8.84028968934629;2020;12;3;14;4;365;193;Test live lessons and whiteboard on staging;Test live lessons and whiteboard on staging
+721670;0;0.0;0;13;8.84600724223366;2020;12;4;7;5;208;208;Display covers on quick templates on dashboard;Display covers on quick templates on dashboard
+721663;0;0.0;0;13;8.85267772060225;2020;12;4;8;5;365;365;Move Agora logic to the custom hook;Move Agora logic to the custom hook
+721645;0;0.0;0;13;8.86983037926434;2020;12;7;13;1;86;365;Incorrect markup on disabled icon;Incorrect markup on disabled icon
+721644;0;0.0;0;13;8.87078330474557;2020;12;7;13;1;86;365;Markup for follow teacher logic;Markup for follow teacher logic
+721638;0;1.0;1;13;8.87650085763293;2020;12;8;6;2;208;147;Cannot read property 'concat' of undefined;Cannot read property 'concat' of undefined fixed
+721634;0;0.0;0;13;8.88031255955784;2020;12;8;7;2;1;193;(Kirill, Slava) Update restrictions on Free Plan;(Kirill, Slava) Update restrictions on Free Plan
+721629;0;12.0;1;13;8.88507718696398;2020;12;8;9;2;208;193;Handle background image/color on assignment in student statistics (Class, Student tab);Handle background image/color on assignment in student statistics (Class, Student tab) case handled. thank you.
+721626;0;0.0;0;13;8.88793596340766;2020;12;8;11;2;365;365;Add video/audio controls for JoinScreen and WaitingTeacher screens;Add video/audio controls for JoinScreen and WaitingTeacher screens
+721615;0;0.0;0;13;8.89841814370116;2020;12;9;6;3;1;208;Manually test and handle error messages and states;Manually test and handle error messages and states
+721611;0;0.0;0;13;8.90222984562607;2020;12;9;6;3;1;208;Connect fetch collections api to a page;Connect fetch collections api to a page
+721600;0;0.0;0;13;8.91271202591957;2020;12;9;6;3;147;147;Plan Agora test session and create test accounts for team;Plan Agora test session and create test accounts for team
+721561;0;0.0;0;13;8.94987611968744;2020;12;10;6;4;86;193;Share through Pinterest doesn't work;Share through Pinterest doesn't work
+721560;0;0.0;0;13;8.95082904516867;2020;12;10;6;4;86;193;Check placeholder image and text from Meta description;Check placeholder image and text from Meta description
+721555;0;0.0;0;13;8.9555936725748;2020;12;10;10;4;1;147;Empty drop-downs when student joins live lesson;Empty drop-downs when student joins live lesson
+721553;42;10.0;2;13;8.95749952353726;2020;12;10;10;4;365;147;Lagging pointer at the live lessons;Lagging pointer at the live lessons pointer is still lagging((Pointer is still lagging at the student side
+721550;0;28.0;1;13;8.96035829998094;2020;12;10;10;4;365;147;Page crashes at student part when teacher leaves the lesson;"Page crashes at student part when teacher leaves the lesson The bug isn't actual. [~accountid:70121:78d951cd-952b-49d7-b2fc-0f0edf03b8dc] If you successfully repeat the bug; please; don't forget to send me browser console logs"
+721543;0;2.0;1;13;8.96702877834953;2020;12;10;14;4;365;365;Fix problems with templates;Fix problems with templates Issues fixed.
+721535;0;5.0;1;13;8.97465218219935;2020;12;11;9;5;365;365;Bug with templates after changing workspace in a unit;Bug with templates after changing workspace in a unit Issue fixed. Checked on staging.
+721530;0;19.0;1;13;8.97941680960549;2020;12;11;11;5;365;147;Echo issue at student side;"Echo issue at student side Checked the bug with [~accountid:70121:78d951cd-952b-49d7-b2fc-0f0edf03b8dc] and [~accountid:5b67bcd8e6dba529eefda937] ; the problem isn't relevant"
+721529;0;0.0;0;13;8.98036973508672;2020;12;11;11;5;365;147;Fix View assignment link for student;Fix View assignment link for student
+721528;0;8.0;1;13;8.98132266056794;2020;12;11;11;5;365;147;Add notification for students when teacher mutes all students;Add notification for students when teacher mutes all students Yesterday I saw notification when teacher muted me.
+721525;0;0.0;0;13;8.98418143701163;2020;12;11;11;5;365;147;Fix wording for student when he/she leaves from the lesson;Fix wording for student when he/she leaves from the lesson
+721523;0;8.0;1;13;8.98608728797408;2020;12;11;11;5;365;147;Redesign name at the student preview video;"Redesign name at the student preview video !image-20201224-091946.png|width=228;height=97!"
+721521;0;7.0;1;13;8.98799313893654;2020;12;11;11;5;365;147;Scroll is not displayed if there are more than 6 students in the live lesson;Scroll is not displayed if there are more than 6 students in the live lesson Yesterday saw fix when we tested bugfixes.
+721519;0;0.0;0;13;8.98989898989899;2020;12;11;11;5;365;147;Lower the quality of the student's video;Lower the quality of the student's video
+721518;0;0.0;0;13;8.99085191538022;2020;12;11;11;5;365;147;Elements drawn by teacher partially disappear on student side;Elements drawn by teacher partially disappear on student side
+721517;56;12.3333333333333;3;13;8.99180484086145;2020;12;11;12;5;365;147;Show avatar (if exists) or initials instead of black screen when video is turned off;Show avatar (if exists) or initials instead of black screen when video is turned off Avatar is not displayed when teacher turns off the camera and swaps camera with canvas:Yesterday we checked this fixfixed
+721516;0;0.0;0;13;8.99275776634267;2020;12;11;12;5;365;147;Make single color for fill and stroke;Make single color for fill and stroke
+721513;0;0.0;0;13;8.99561654278636;2020;12;14;4;1;365;147;Issue with showing subject list, when screen zoom is 100%;Issue with showing subject list, when screen zoom is 100%
+721497;0;0.0;0;13;9.01086335048599;2020;12;15;7;2;82;242;The deployment of the job to staging did not succeed.;The deployment of the job to staging did not succeed.
+721487;0;0.0;0;13;9.02039260529827;2020;12;16;9;3;365;365;Add sorting by current volume;Add sorting by current volume
+721479;0;0.0;0;13;9.02801600914808;2020;12;16;11;3;365;365;Add camera/micro info into student's list dropdown;Add camera/micro info into student's list dropdown
+721478;0;8.0;1;13;9.02896893462931;2020;12;16;11;3;365;365;Disable whiteboard after start lesson;Disable whiteboard after start lesson Changed default selected tool from {{Pencil}} to {{Move}}
+721471;2;28.6666666666667;3;13;9.0356394129979;2020;12;17;7;4;365;4;Enable teacher to restart finished live session;"Enable teacher to restart finished live session - Synchronized with Roma; discussed the next solution[~accountid:5b67bcd8e6dba529eefda937] When the teacher restarts the live lesson; we are sending notifications to studetns again; right?[~accountid:5b044dd827dd77348bacbf34] right. If a teacher starts a live lesson - need to send the notification."
+721458;0;0.0;0;13;9.04802744425386;2020;12;18;12;5;330;330;Fix types in standards;Fix types in standards
+721443;0;0.0;0;13;9.06232132647227;2020;12;21;12;1;330;147;Create HR accounts;Create HR accounts
+721439;0;0.0;0;13;9.06613302839718;2020;12;21;20;1;365;147;Student's page crashes when teacher switches camera/canvas several times;Student's page crashes when teacher switches camera/canvas several times
+721436;0;0.0;0;13;9.06899180484086;2020;12;22;6;2;365;147;Teacher and student not seeing their own initials at the avatar icon;Teacher and student not seeing their own initials at the avatar icon
+721435;0;10.0;1;13;9.06994473032209;2020;12;22;6;2;365;147;Video is not displayed after reconnect;Video is not displayed after reconnect Now video displays as usual after reconnecting to the lesson
+721433;0;0.0;0;13;9.07185058128454;2020;12;22;6;2;365;365;Bug with height on iPad(100vh);Bug with height on iPad(100vh)
+721432;0;0.0;0;13;9.07280350676577;2020;12;22;7;2;365;147;Icons duplicate after re-connect;Icons duplicate after re-connect
+721426;0;11.0;1;13;9.07852105965313;2020;12;22;8;2;365;147;Error 422 when visiting student dashboard from microsoft edge;"Error 422 when visiting student dashboard from microsoft edge Problems with the new “Classes” endpoint; not agora or live lesson"
+721425;0;0.0;0;13;9.07947398513436;2020;12;22;9;2;365;147;Students hear each other while teacher is disconnected;Students hear each other while teacher is disconnected
+721423;0;0.0;0;13;9.08137983609682;2020;12;22;9;2;365;147;No way for student to leave the lesson while waiting teacher to connect back;No way for student to leave the lesson while waiting teacher to connect back
+721422;0;0.0;0;13;9.08233276157804;2020;12;22;9;2;365;147;"""Assignment not found"" screen appears before each live lesson start";"""Assignment not found"" screen appears before each live lesson start"
+721421;0;12.0;1;13;9.08328568705927;2020;12;22;9;2;365;147;Lesson cover breaks after page refresh;Lesson cover breaks after page refresh The problem isn't relevant. Seems like it's problems with staging
+721420;0;9.0;1;13;9.0842386125405;2020;12;22;9;2;365;147;Sound indicator is not working properly in settings modal;Sound indicator is not working properly in settings modal Done
+721408;0;19.0;1;13;9.09567371831523;2020;12;23;6;3;365;147;Teacher is not able to scroll standards at the lesson cover;"Teacher is not able to scroll standards at the lesson cover This is the correct behavior because we have a whiteboard above the canvas; and canvas elements isn't usable"
+721407;0;42.0;1;13;9.09662664379645;2020;12;23;6;3;86;147;Issue with cover border in Safari browser;"Issue with cover border in Safari browser !Screen Shot 2020-12-28 at 06/22/46.png|width=287;height=197!"
+721404;0;0.0;0;13;9.09948542024014;2020;12;23;6;3;1;193;(Roma, Slava) Enhance dashboard and canvas (Small wins);(Roma, Slava) Enhance dashboard and canvas (Small wins)
+721395;0;3.0;1;13;9.10806174957118;2020;12;23;10;3;365;193;1 - Rename Professional Development to CPD and update the color;1 - Rename Professional Development to CPD and update the color fixed. thank you.
+721391;0;0.0;0;13;9.11187345149609;2020;12;23;16;3;365;147;"On the big screen ""View assignment"" text in the button scales";"On the big screen ""View assignment"" text in the button scales"
+721388;0;0.0;0;13;9.11473222793978;2020;12;23;16;3;365;147;Teacher video disappears after playing with settings;Teacher video disappears after playing with settings
+721386;0;0.0;0;13;9.11663807890223;2020;12;23;16;3;365;147;"Students cannot hear teacher, when teacher turns off the ""Students can hear each other"" option in setting";"Students cannot hear teacher, when teacher turns off the ""Students can hear each other"" option in setting"
+721385;0;2.0;1;13;9.11759100438346;2020;12;23;16;3;365;147;Clicking on the left arrow in the student list does nothing;Clicking on the left arrow in the student list does nothing Issue fixed.
+721384;0;5.0;1;13;9.11854392986468;2020;12;23;16;3;365;147;Muted mic automatically unmutes after teacher leaves the lesson;Muted mic automatically unmutes after teacher leaves the lesson Can't repeat the bug
+721382;0;9.0;1;13;9.12044978082714;2020;12;23;17;3;365;147;User icon is too small at the wait screen;User icon is too small at the wait screen fixed:
+721377;1;14.0;2;13;9.12521440823328;2020;12;23;17;3;365;147;[Show to Vlad] Lately connected student does not follow the teacher's phase and is being dropped to cover phase;[Show to Vlad] Lately connected student does not follow the teacher's phase and is being dropped to cover phase [~accountid:557058:7ae9d263-27ab-437c-9306-d8fad371f87c][~accountid:70121:78d951cd-952b-49d7-b2fc-0f0edf03b8dc] great\! Thanks
+721375;76;25.5;2;13;9.12712025919573;2020;12;23;17;3;365;147;"Big padding at the right side of the ""You have been muted"" modal";"Big padding at the right side of the ""You have been muted"" modal Checked. All by design: [https://www.figma.com/file/GG58OiEWcnYWr7X0BMzh6v/New-Layout?node-id=9559%3A4387|https://www.figma.com/file/GG58OiEWcnYWr7X0BMzh6v/New-Layout?node -id=9559%3A4387|smart-link]*Currently on site:*"
+721374;0;5.0;1;13;9.12807318467696;2020;12;23;17;3;365;147;Left slider button closes half of the face, when in the leftmost position;Left slider button closes half of the face, when in the leftmost position Need to ask the designers
+721370;87;28.25;4;13;9.13188488660187;2020;12;24;8;4;365;147;Handle case when teacher tries to start live lesson for expired lessons;"Handle case when teacher tries to start live lesson for expired lessons [~accountid:557058:7ae9d263-27ab-437c-9306-d8fad371f87c] ; hello\! Roman implemented 1st variant. Please; confirm if wording that I provided is OK[~accountid:70121:78d951cd-952b-49d7-b2fc-0f0edf03b8dc] let's Ask [~accountid:5f10297a502ce1001d216743] to help us with the wording[~accountid:70121:78d951cd-952b-49d7-b2fc-0f0edf03b8dc] “Unable to start the live lesson; the assignment date has passed”fixed:"
+721366;0;8.0;1;13;9.13569658852678;2020;12;24;9;4;86;147;Subject is not displayed for student during live lesson;"Subject is not displayed for student during live lesson !image-20210104-194633.png|width=1191;height=322!"
+721365;0;9.0;1;13;9.136649514008;2020;12;24;9;4;365;147;Incorrect teacher name format at the student side;Incorrect teacher name format at the student side fixed:
+721354;0;0.0;0;13;9.14713169430151;2020;12;25;7;5;193;193;Create high-level document which describes what is CPD product;Create high-level document which describes what is CPD product
+721336;0;20.0;1;13;9.1642843529636;2020;12;28;9;1;86;86;Need to fix height of live lesson page on iPad(100vh);"Need to fix height of live lesson page on iPad(100vh) Closing this issue; duplicates [https://lumicislate.atlassian.net/browse/TILT-9677|https://lumicislate.atlassian.net/browse/TILT-9677|smart-link]"
+721331;0;0.0;0;13;9.16904898036974;2020;12;28;9;1;1;147;live lesson whiteboard;live lesson whiteboard
+721324;0;0.0;0;13;9.17571945873833;2020;12;29;0;2;82;82;Fix lifecycle policy for ecr;Fix lifecycle policy for ecr
+721293;49;15.0;2;13;9.20526014865638;2020;12;30;4;3;365;365;Disable Agora logs;"Disable Agora logs When I started live lesson; I see in consoleThese logs are still here:"
+721288;0;0.0;0;13;9.21002477606251;2020;12;30;6;3;330;193;(Danik) Update pagination structure;(Danik) Update pagination structure
+721284;0;0.0;0;13;9.21383647798742;2020;12;30;9;3;86;193;2 - Check tests and cover code with tests;2 - Check tests and cover code with tests
+721282;0;0.0;0;13;9.21574232894988;2020;12;30;9;3;86;193;Tests+Refactoring: Student dashboard;Tests+Refactoring: Student dashboard
+721281;0;8.0;1;13;9.2166952544311;2020;12;30;9;3;365;365;Check ability to use different users count on different breakpoints;"Check ability to use different users count on different breakpoints !image-20210107-090721.png|width=436;height=56!"
+721273;0;0.0;0;13;9.22431865828092;2020;12;30;11;3;365;365;Lessons slider;Lessons slider
+721271;0;0.0;0;13;9.22622450924338;2020;12;30;11;3;365;365;Lesson item markup;Lesson item markup
+721270;0;0.0;0;13;9.2271774347246;2020;12;30;11;3;365;365;unit tests;unit tests
+721269;0;0.0;0;13;9.22813036020583;2020;12;30;11;3;365;365;Lesson details logic;Lesson details logic
+721266;73;10.0;2;13;9.23098913664951;2021;1;4;6;1;365;147;Remove touch scroll on iPad;Remove touch scroll on iPad Fixed by [https://lumicislate.atlassian.net/browse/TILT-9673|https://lumicislate.atlassian.net/browse/TILT-9673|smart-link]Issue fixed.
+721264;22;8.5;2;13;9.23289498761197;2021;1;4;6;1;365;147;Display connection indicator;"Display connection indicator !image-20210104-081930.png|width=3056;height=574!Done:"
+721263;33;31.5;2;13;9.2338479130932;2021;1;4;6;1;365;147;[Live lesson] Connection checker before entering live lesson;"[Live lesson] Connection checker before entering live lesson !image-20210104-082341.png|width=1352;height=674!Removed task from epic. Placed as sub-feature into [https://docs.google.com/document/d/1WeSNk6ZRSY4m9iSx-avqrhuzjZl8ib8w9BMFJtZaVCg/edit|https://docs.google.com/document/d/1WeSNk6ZRSY4m9iSx-avqrhuzjZl8ib8w9BMFJtZaVCg/edit|smart-link ]"
+721260;0;2.0;1;13;9.23670668953688;2021;1;4;6;1;365;147;Some students hear each other event when teacher turns off setting;Some students hear each other event when teacher turns off setting Issue fixed.
+721259;0;0.0;0;13;9.2376596150181;2021;1;4;6;1;365;147;Camera doesn't turn off after live lesson is finished;Camera doesn't turn off after live lesson is finished
+721258;0;17.0;1;13;9.23861254049933;2021;1;4;6;1;365;147;Time starts counting from 0:00 after 1h has passed;Time starts counting from 0:00 after 1h has passed fixed:
+721257;0;0.0;0;13;9.23956546598056;2021;1;4;7;1;365;193;Deploy live lessons to production;Deploy live lessons to production
+721248;3;16.6666666666667;3;13;9.24814179531161;2021;1;4;12;1;86;193;Remove free for December button from website;"Remove free for December button from website In the “Professional development” tab; please; replace “Buy for free” with “Free”At the site as well; replace Buy for free with “Free”After clicking on “Get full access” button: “Buy for free” → “Free”"
+721247;0;0.0;0;13;9.24909472079283;2021;1;4;13;1;365;147;Add cancel button before lesson start;Add cancel button before lesson start
+721241;0;0.0;0;13;9.2548122736802;2021;1;5;8;2;208;208;Front sends remember always no matter remeber Me is checked or not;Front sends remember always no matter remeber Me is checked or not
+721240;0;0.0;0;13;9.25576519916143;2021;1;5;10;2;365;365;Problem with websockets;Problem with websockets
+721235;32;22.0;2;13;9.26052982656756;2021;1;5;16;2;374;1;"GA: Are we tracking clicks to ""use this lesson"" on the lesson pages. If we can't set this up";"GA: Are we tracking clicks to ""use this lesson"" on the lesson pages. If we can't set this up Hi [~accountid:5fc4d34347ac91006fdf40fc]; thank you for the suggestion. I've set up 2 events for resources section.Amazing\! thank you. Will take a look. 😍"
+721228;0;2.0;1;13;9.26720030493615;2021;1;6;7;3;365;147;[Whiteboard] Students don't any changes when teacher rapidly deleted see many objects;[Whiteboard] Students don't any changes when teacher rapidly deleted see many objects Issue fixed.
+721194;11;16.0;2;13;9.29959977129789;2021;1;6;11;3;365;193;0 - Replace icons in canvas header;0 - Replace icons in canvas header [~accountid:5daf4d1679a9390c30c734e6] need to fix mark upfixed:
+721192;1;22.0;2;13;9.30150562226034;2021;1;6;12;3;365;193;0 - Replace icons in top toolbar on the canvas;"0 - Replace icons in top toolbar on the canvas At a resolution of 1366px × 661px; the icons “gone” down:It is not visible which elements are selected; can they be highlighted somehow around?"
+721190;0;12.0;1;13;9.30341147322279;2021;1;6;12;3;365;193;0 - Upgrade to Pro button;0 - Upgrade to Pro button button added. thank you.
+721188;0;0.0;0;13;9.30531732418525;2021;1;6;12;3;330;330;Password validation regex error;Password validation regex error
+721186;0;0.0;0;13;9.3072231751477;2021;1;6;13;3;365;193;3 - Support colors from media library in background modal on cover and phases;3 - Support colors from media library in background modal on cover and phases
+721178;1;18.0;2;13;9.31484657899752;2021;1;7;12;4;208;193;Teacher cannot type search query in search field inside Teacherly tab;"Teacher cannot type search query in search field inside Teacherly tab When you click on the cross; the search field is not cleared.[~accountid:5b67bcd8e6dba529eefda937] [https://teacherlyio.slack.com/archives/CA89E2U1K/p1610346695050300|https://teacherlyio.slack.com/archives/CA89E2U1K/p1610346695050300]"
+721177;0;0.0;0;13;9.31579950447875;2021;1;7;12;4;365;193;4 - Bugs in background modal mark up;4 - Bugs in background modal mark up
+721122;0;0.0;0;13;9.36821040594626;2021;1;8;14;5;11;11;Add tests and swagger description;Add tests and swagger description
+721110;0;0.0;0;13;9.37964551172098;2021;1;8;20;5;1;330;Lesson/LessonController.php;Lesson/LessonController.php
+721073;0;0.0;0;13;9.4149037545264;2021;1;11;4;1;86;193;Update pricing page on website;Update pricing page on website
+721071;0;0.0;0;13;9.41680960548885;2021;1;11;5;1;86;193;Add information on the website about restriction with classes;Add information on the website about restriction with classes
+721070;0;0.0;0;13;9.41776253097008;2021;1;11;5;1;330;193;[Current] Ability to add lessons from the Lesson library page (Now - 10, need to have - 5);[Current] Ability to add lessons from the Lesson library page (Now - 10, need to have - 5)
+721069;1;19.5;2;13;9.41871545645131;2021;1;11;5;1;86;193;Update information on the website;Update information on the website [~accountid:5b67bcd8e6dba529eefda937] [~accountid:5d1077b6181ea30c484a0815] Should I also change it right away?[~accountid:70121:78d951cd-952b-49d7-b2fc-0f0edf03b8dc] corrected
+721068;67;11.3333333333333;3;13;9.41966838193253;2021;1;11;5;1;365;147;Student is not able to see quiz;Student is not able to see quiz Fixed by [https://lumicislate.atlassian.net/browse/TILT-8317|https://lumicislate.atlassian.net/browse/TILT-8317|smart-link][https://www.loom.com/share/29ecaf35d3c14c889144e46d80b58615|https://www.loom.com/share/29ecaf35d3c14c889144e46d80b58615]Task isn't relevant.
+721067;0;34.0;1;13;9.42062130741376;2021;1;11;5;1;82;193;Set up redirects for lumici.co.uk and from this domain to teacherly.io;"Set up redirects for lumici.co.uk and from this domain to teacherly.io !image-20210111-112501.png|width=873;height=345!"
+721066;0;0.0;0;13;9.42157423289499;2021;1;11;5;1;86;86;Need to fix bug with paddings for the Button ui component;Need to fix bug with paddings for the Button ui component
+721063;4;10.0;2;13;9.42443300933867;2021;1;11;6;1;365;147;"0 - [Blocker] Assignment is not loading when student clicks on ""Back to the lesson"" button";"0 - [Blocker] Assignment is not loading when student clicks on ""Back to the lesson"" button AssignmentPreview component is rendered with exact same props; but somehow it refuses to render at allIssue fixed. thank you."
+721055;0;0.0;0;13;9.43205641318849;2021;1;11;8;1;242;86;0 - Need to update layout for toast notification's in the student's app;0 - Need to update layout for toast notification's in the student's app
+721052;0;0.0;0;13;9.43491518963217;2021;1;11;10;1;208;147;1 - Manage questions button is not working at the teacher site;1 - Manage questions button is not working at the teacher site
+721049;0;0.0;0;13;9.43777396607585;2021;1;11;12;1;82;193;Set up redirects from lumici.co.uk to teacherly.io;Set up redirects from lumici.co.uk to teacherly.io
+721047;0;0.0;0;13;9.43967981703831;2021;1;11;13;1;365;365;empty states;empty states
+721046;0;0.0;0;13;9.44063274251953;2021;1;11;13;1;365;365;adaptive markup;adaptive markup
+721036;0;0.0;0;13;9.45016199733181;2021;1;12;11;2;330;330;Check ordering direction, force to 'desc' if direction incorrect;Check ordering direction, force to 'desc' if direction incorrect
+721034;0;0.0;0;13;9.45206784829426;2021;1;12;12;2;86;147;2 - Fix space between progress buttons at the Dashboard page;2 - Fix space between progress buttons at the Dashboard page
+721029;0;0.0;0;13;9.4568324757004;2021;1;13;6;3;365;193;Disable whiteboard feature on Free plan;Disable whiteboard feature on Free plan
+721028;15;23.0;3;13;9.45778540118163;2021;1;13;6;3;365;193;Ability to turn on/off whiteboard;"Ability to turn on/off whiteboard [https://www.figma.com/file/GG58OiEWcnYWr7X0BMzh6v/New-Layout?node-id=10333%3A316910|https://www.figma.com/file/GG58OiEWcnYWr7X0BMzh6v/New-Layout?node-id=10333 %3A316910|smart link]!image-20210114-062113.png|width=1076;height=938!Free member: We need to make the icons gray; inactive; now like this:"
+721016;0;0.0;0;13;9.46922050695636;2021;1;13;12;3;365;193;update library;update library
+721015;70;25.0;3;13;9.47017343243758;2021;1;13;13;3;365;193;Only assignment creator could start live lesson;"Only assignment creator could start live lesson # Remove old button[~accountid:5d41b93199fa080dac248d12] Endpoint /assignments/:id live_session.status should be string(not_viewed; in_progress; finished)Now only the assignment creator can start live lesson in assignment."
+721009;0;0.0;0;13;9.47589098532495;2021;1;13;15;3;86;193;0 - Mark up issues with AssignmentItem on Dashboard;0 - Mark up issues with AssignmentItem on Dashboard
+721008;0;11.0;1;13;9.47684391080617;2021;1;13;15;3;86;193;0 - Incorrect truncate for assignment name inside details;0 - Incorrect truncate for assignment name inside details Now title truncated
+721003;0;2.0;1;13;9.48160853821231;2021;1;13;17;3;365;193;1 - When switching slides, the entire interface shifts;1 - When switching slides, the entire interface shifts Issue fixed
+721001;0;9.0;1;13;9.48351438917477;2021;1;13;19;3;86;147;0 - Truncate long class name at the class item at the dashboard page;0 - Truncate long class name at the class item at the dashboard page fixed:
+720999;0;9.0;1;13;9.48542024013722;2021;1;13;20;3;86;147;1 - Fix wordings for filter buttons at the Dashboard page;1 - Fix wordings for filter buttons at the Dashboard page fixed:
+720993;0;5.0;1;13;9.49113779302458;2021;1;14;7;4;365;193;0 - Join live lesson button works incorrectly;0 - Join live lesson button works incorrectly The problem no longer recurs.
+720992;63;5.0;3;13;9.49209071850581;2021;1;14;8;4;365;193;2 - Assignment Card duplicates in slider on dashboard;2 - Assignment Card duplicates in slider on dashboard [~accountid:5b67bcd8e6dba529eefda937] Can't reproduce itJust checked WTR - the bug is reproductible.Issue fixed.
+720991;0;9.0;1;13;9.49304364398704;2021;1;14;8;4;86;193;2 - Incorrect alignment of text to the Dislike icon in a lesson with Completed status;2 - Incorrect alignment of text to the Dislike icon in a lesson with Completed status fixed:
+720978;0;0.0;0;13;9.505431675243;2021;1;14;13;4;86;147;2 - White stripe appears at the top of the screen when student navigates from Schedule to assignment;2 - White stripe appears at the top of the screen when student navigates from Schedule to assignment
+720977;0;2.0;1;13;9.50638460072422;2021;1;14;13;4;365;365;0 - Pagination for notifications;0 - Pagination for notifications Pagination works
+720973;0;0.0;0;13;9.51019630264913;2021;1;14;14;4;86;193;0 - Update picture for notification sidebar for empty state;0 - Update picture for notification sidebar for empty state
+720971;6;6.5;2;13;9.51210215361159;2021;1;14;14;4;365;147;1 - Rename Go live button to Join Live lesson;1 - Rename Go live button to Join Live lesson [https://www.loom.com/share/2ca0e924bc0841f7806a1f9e2fb0d63b|https://www.loom.com/share/2ca0e924bc0841f7806a1f9e2fb0d63b]fixed
+720969;0;14.0;1;13;9.51400800457404;2021;1;14;14;4;365;147;1 - [Feedback modal] Click event works only at the 👍👎 buttons;1 - [Feedback modal] Click event works only at the 👍👎 buttons Issue fixed. Now student can click not only on icon and it works better.
+720963;0;0.0;0;13;9.51972555746141;2021;1;14;15;4;86;147;"2 - ""Available"" status for lessons is no longer exists in Schedule Day tab";"2 - ""Available"" status for lessons is no longer exists in Schedule Day tab"
+720962;0;2.0;1;13;9.52067848294263;2021;1;14;15;4;86;193;0 - [Blocker] There is no icon for class on Journey page;0 - [Blocker] There is no icon for class on Journey page Issue fixed
+720959;39;18.3333333333333;3;13;9.52353725938632;2021;1;14;15;4;365;147;0 - [Blocker] Incorrect links to classes, assignments etc. in Notifications;"0 - [Blocker] Incorrect links to classes, assignments etc. in Notifications Checked notifications except* Notifications that student has been added to the class leads to “/assignment/undefined”. Need to lead to ""/classes/\{classes_id}""Now link works correct"
+720958;0;12.0;1;13;9.52449018486754;2021;1;14;15;4;86;147;2 - Page elements slightly shift to the left while expanding;2 - Page elements slightly shift to the left while expanding [https://www.loom.com/share/f3b239f08e354990b0028bcc891f8ec1|https://www.loom.com/share/f3b239f08e354990b0028bcc891f8ec1]
+720953;0;0.0;0;13;9.52925481227368;2021;1;15;4;5;365;365;Add free/pro plan handling on front;Add free/pro plan handling on front
+720951;36;14.75;4;13;9.53116066323613;2021;1;15;4;5;365;193;1 - Buttons logic for quizzes on Dashboard works incorrectly;"1 - Buttons logic for quizzes on Dashboard works incorrectly Scenario 1 not handled.Issue fixed.Student doesn't see outcomes for In Progress lessons at all; student sees what teacher should see instead “Lesson is in progress by student“:Incorrect quiz name is displayed at the student dashboard:"
+720947;0;9.0;1;13;9.53497236516104;2021;1;15;5;5;365;107;Change button style in Teacher Whiteboard on screen when lesson finishes automatically on Free plan.;Change button style in Teacher Whiteboard on screen when lesson finishes automatically on Free plan. Done:
+720944;0;14.0;1;13;9.53783114160473;2021;1;15;8;5;365;193;0 - Quiz in clickable in assignment with Not viewed status;0 - Quiz in clickable in assignment with Not viewed status Now quiz in Not viewed status is unclickable. And clickable in progress status.
+720943;0;17.0;1;13;9.53878406708595;2021;1;15;8;5;365;193;0 - Action under Begin lesson on Dashboard doesn't transfer lesson to In progress status;0 - Action under Begin lesson on Dashboard doesn't transfer lesson to In progress status Now lesson is going to In progress status when a student clicks on begin lesson from Dashboard.
+720942;0;1.0;1;13;9.53973699256718;2021;1;15;8;5;365;193;1 - Issues with notifications;1 - Issues with notifications fixed
+720935;0;12.0;1;13;9.54640747093577;2021;1;15;9;5;365;193;Show screen on Free plan when teacher starts live lesson + prompt with whiteboard;Show screen on Free plan when teacher starts live lesson + prompt with whiteboard There is the prompt
+720921;0;0.0;0;13;9.55974842767296;2021;1;18;5;1;82;82;Update CD for all projects, start test stage only from MR and only from Master branch;Update CD for all projects, start test stage only from MR and only from Master branch
+720920;0;0.0;0;13;9.56070135315418;2021;1;18;6;1;365;193;0 - Assignment content doesn't load when student goes to assignment in Missed and Finished statuses through Notification;0 - Assignment content doesn't load when student goes to assignment in Missed and Finished statuses through Notification
+720916;0;15.0;1;13;9.56451305507909;2021;1;18;8;1;365;193;1 - Student cannot join to live lesson from class when assignment in Complete status;"1 - Student cannot join to live lesson from class when assignment in Complete status Already fixed; I forgot about ENABLE_LIVE_LESSON env variable in the student's app. Removed it"
+720911;0;1.0;1;13;9.56927768248523;2021;1;18;9;1;86;147;Change tab title when student visits Dashboard page;Change tab title when student visits Dashboard page fixed
+720910;0;0.0;0;13;9.57023060796646;2021;1;18;10;1;365;365;Merge test folders;Merge test folders
+720909;0;0.0;0;13;9.57118353344768;2021;1;18;10;1;365;365;Merge infrastructure(Remove /new-design folder);Merge infrastructure(Remove /new-design folder)
+720908;0;0.0;0;13;9.57213645892891;2021;1;18;12;1;365;365;Tests for src folder;Tests for src folder
+720898;0;0.0;0;13;9.58166571374119;2021;1;18;12;1;365;365;Tests for containers/*(include folders);Tests for containers/*(include folders)
+720897;0;0.0;0;13;9.58261863922241;2021;1;18;12;1;365;365;Tests for hocs;Tests for hocs
+720896;0;0.0;0;13;9.58357156470364;2021;1;18;12;1;365;365;Tests for pages;Tests for pages
+720895;0;0.0;0;13;9.58452449018487;2021;1;18;12;1;365;365;Tests for store(Actions, Epics, Reducers, Selectors);Tests for store(Actions, Epics, Reducers, Selectors)
+720894;0;0.0;0;13;9.58547741566609;2021;1;18;12;1;365;365;Tests for utilities;Tests for utilities
+720893;0;0.0;0;13;9.58643034114732;2021;1;18;14;1;86;1;0 - Hide/Disable Help button on the student's dashboard;0 - Hide/Disable Help button on the student's dashboard
+720892;0;21.0;1;13;9.58738326662855;2021;1;18;15;1;330;330;Add stand alone queue worker;Add stand alone queue worker We decided to run an APM queue on an existing worker for a week with [~accountid:5d8476284f9cf00d6021a01e].
+720886;0;0.0;0;13;9.59310081951591;2021;1;19;9;2;86;86;[Sentry error] Need to check - ailed to execute 'querySelector' on 'Document' message;[Sentry error] Need to check - ailed to execute 'querySelector' on 'Document' message
+720882;0;0.0;0;13;9.59691252144082;2021;1;20;3;3;82;82;Auth for APM service;Auth for APM service
+720879;4;18.0;3;13;9.59977129788451;2021;1;20;8;3;1;193;(Dan, Slava) Improve text tool (draft.js) on the canvas;"(Dan, Slava) Improve text tool (draft.js) on the canvas [~accountid:5b67bcd8e6dba529eefda937] I'm not really sure what you mean by Improving text tool. The only way I see is to move to something different; but migration would take up a lot of development and debugging time.I'm collecting requirements.I mean *complete* features list."
+720870;0;10.0;1;13;9.60834762721555;2021;1;20;12;3;86;147;[Schedule] Student unable to see all assignments page;[Schedule] Student unable to see all assignments page Issue fixed
+720864;0;0.0;0;13;9.61406518010292;2021;1;21;6;4;365;193;5 - Images modal;5 - Images modal
+720859;0;0.0;0;13;9.61882980750905;2021;1;21;7;4;86;193;7 - Standards modal;7 - Standards modal
+676620;0;0.0;0;13;0.0038117019249094;2021;1;21;13;4;365;365;Resolve problems with window object;Resolve problems with window object
+720842;0;0.0;0;13;9.63502954068992;2021;1;22;5;5;147;147;Revise bugs and actualize bug statuses;Revise bugs and actualize bug statuses
+720839;0;1.0;1;13;9.6378883171336;2021;1;22;8;5;86;147;[Invite to the team modal] Make Invite link field read only;[Invite to the team modal] Make Invite link field read only fixed
+720837;0;9.0;1;13;9.63979416809606;2021;1;23;11;6;86;147;Markup is broken at the Invite student modal;Markup is broken at the Invite student modal fixed:
+720826;0;1.0;1;13;9.65027634838956;2021;1;25;10;1;86;147;"[Invite to the team modal] Unable to switch between ""Can View/Can Edit""";"[Invite to the team modal] Unable to switch between ""Can View/Can Edit"" fixed"
+720812;0;0.0;0;13;9.66361730512674;2021;1;26;3;2;82;82;"Research about ""data validation error"" for apm service";"Research about ""data validation error"" for apm service"
+856267;0;0.0;0;13;9.67791118734515;2021;1;26;12;2;365;365;Fix color pickers markup;Fix color pickers markup
+856260;0;0.0;0;13;9.68458166571374;2021;1;26;19;2;86;147;Show Upgrade modal when teacher with free plan wants to create on more class;Show Upgrade modal when teacher with free plan wants to create on more class
+856233;0;20.0;1;13;9.71031065370688;2021;1;27;11;3;365;365;Update markup for search tab;Update markup for search tab What do you need to complete:
+856213;0;23.0;1;13;9.72936916333143;2021;1;27;12;3;330;193;Create assignments;"Create assignments When student has been assigned; he receives notification {{You have been assigned}}. I think we need one new notification that {{assignment was deleted}}."
+893700;0;0.0;0;13;9.73603964170002;2021;1;27;13;3;86;193;Remove restriction from Evaluation;Remove restriction from Evaluation
+893668;1;19.0;2;13;9.7665332570993;2021;1;27;15;3;86;1;Spelling mistakes;Spelling mistakes message fixed:Modal markup at the Live lesson join is broken:
+933883;0;0.0;0;13;9.84657899752239;2021;1;28;7;4;86;193;Update link on the website;Update link on the website
+933867;0;0.0;0;13;9.86182580522203;2021;1;28;12;4;330;330;handle backend;handle backend
+933846;0;0.0;0;13;9.88183724032781;2021;1;29;13;5;365;365;Handle undo/redo;Handle undo/redo
+997103;0;0.0;0;13;9.88564894225272;2021;2;1;6;1;208;193;The search field is not loaded with the lessons on the My lessons and Lessons library page;The search field is not loaded with the lessons on the My lessons and Lessons library page
+997101;0;0.0;0;13;9.88755479321517;2021;2;1;7;1;208;193;Teacher cannot see assignments in class but they are created;Teacher cannot see assignments in class but they are created
+997097;0;0.0;0;13;9.89136649514008;2021;2;1;10;1;208;193;Application brakes when teacher goes to Student tab in Class;Application brakes when teacher goes to Student tab in Class
+997094;0;0.0;0;13;9.89422527158376;2021;2;1;13;1;86;86;Need to add the ability to hide the clear button for Input component with isSearch type;Need to add the ability to hide the clear button for Input component with isSearch type
+700047;0;0.0;0;15;9.66244725738397;2020;2;19;14;3;97;37;Microsoft Edge has an extra character when signing in;Microsoft Edge has an extra character when signing in
+700046;0;0.0;0;15;9.67651195499297;2020;2;19;14;3;97;37;Search logo is crooked in Microsoft Edge;Search logo is crooked in Microsoft Edge
+700023;0;0.0;0;15;10.0;2020;7;4;15;6;1;97;Sales receipt not generated;Sales receipt not generated
+1848350;0;0.0;0;29;0.394456289978678;2021;5;24;16;1;192;403;Refine models by device attributes;Refine models by device attributes
+1848347;0;0.0;0;29;0.426439232409382;2021;5;24;16;1;192;403;Learn how to do a preview on react from a stream;Learn how to do a preview on react from a stream
+1971999;0;0.0;0;29;0.607675906183369;2021;6;3;11;4;191;191;Communication Belek;Communication Belek
+1978806;0;0.0;0;29;0.628997867803838;2021;6;8;16;2;192;192;Run project locally;Run project locally
+1982425;0;18.0;1;29;0.650319829424307;2021;6;11;11;5;192;192;Prepare CI and configuration for delivery;Prepare CI and configuration for delivery Build and Delivery configured [https://gitlab.com/microphotographer/web-api/-/pipelines|https://gitlab.com/microphotographer/web-api/-/pipelines]
+1984716;0;0.0;0;29;0.660980810234542;2021;6;15;15;2;192;192;Set up a web server;Set up a web server
+1990458;0;6.0;1;29;0.735607675906183;2021;6;22;16;2;192;192;Update package responsible for authentication in api;Update package responsible for authentication in api Replaced packages. You need to test registration/login.
+1990976;0;0.0;0;29;0.756929637526652;2021;6;22;21;2;192;192;Set up dependencies for django;Set up dependencies for django
+1994130;0;0.0;0;29;0.788912579957356;2021;6;25;18;5;192;192;[Front] Remove call to last-image-url on camera pages;[Front] Remove call to last-image-url on camera pages
+2105184;0;0.0;0;29;0.831556503198294;2021;7;2;15;5;191;191;[back] Set up sending emails after registration;[back] Set up sending emails after registration
+2175319;0;0.0;0;29;0.895522388059702;2021;7;14;15;3;97;291;On the camera page, reduce the size of the player using the buttons;On the camera page, reduce the size of the player using the buttons
+2183553;0;0.0;0;29;0.991471215351812;2021;7;23;13;5;192;192;Communication Gennady JULY;Communication Gennady JULY
+686510;0;1.0;1;33;9.4406548431105;2020;9;22;10;2;1;58;Fix the redirect loop after sign in;Fix the redirect loop after sign in LGTM
+686471;100;17.0;2;33;9.61800818553888;2020;10;1;9;4;97;58;Fix layout of services during services confirmation;Fix layout of services during services confirmation [Maksim Gacheskiy|https://gitlab.com/HEKTOdaleky] mentioned this issue in [a commit|https://gitlab.com/sortedhouse/frontend/-/commit/7f675ea38ec2d5024d499831516c5ebbcf944305] of [Sortedhouse / frontend|https:// gitlab.com/sortedhouse/frontend]:{quote}SOR-706 - fixed styles{quote}LGTM
+688369;0;129.0;1;48;5.29490616621984;2020;6;16;19;2;1;1;Can't login to LMS staging Vietnam;"Can't login to LMS staging Vietnam We found that the problem was that SSO was saving users to one database (jackfruitstaging) but lms was accessing another (jfstating) using different username and password as well (user: jackfruitstaging; password: jackfruitstaging@edumall - that's what sso was using) and (user: jfstaging; password: jfstaging@edumall - that's what lms was using). After login SSO was redirecting users to LMS where in callback LMS tried to retrieve a user from the database by ID which's stored in cookies but it was always null and LMS was redirecting to SSO which was correctly finding a user from database by id of cookies and was redirecting back to LMS. This operation was performing recursively. We changed the database of LMS to the old one which SSO refers to. And it works"
+679068;115;25.5;4;48;1.00536193029491;2020;6;17;14;3;82;374;Remove learning.edumall.co.th and lms.edumall.vn from indexing;"Remove learning.edumall.co.th and lms.edumall.vn from indexing [ ~leonov.rs@gmail.com ] [~kirill][~khalezin.d] yep; it's okay because they are the same. thank you.[~kirill] [ ~leonov.rs@gmail.com ][~khalezin.d] great; confirm! Thanks!"
+679025;0;10.0;1;48;1.13941018766756;2020;6;23;11;2;1;1;Create COD flow documentation;Create COD flow documentation https://docs.google.com/document/d/1KZvNF9V865ZgHb3WHgs6FlyBaqubIu7H6hzJsiDhqN8/edit?usp=sharing
+688286;0;1.0;1;48;5.51608579088472;2020;6;24;14;3;1;1;Actualize e2e tests;Actualize e2e tests Done
+679017;0;38.0;1;48;1.19302949061662;2020;6;24;16;3;1;1;Error in the display price in the production;Error in the display price in the production This ticket is done. I've discussed with [~azat17] that he will fix this issue for only this particular case and we will keep monitoring if there is a new case after this to save time.
+679012;0;0.0;0;48;1.21983914209115;2020;6;24;19;3;1;1;Customize Sitemap for blog pages;Customize Sitemap for blog pages
+679009;0;0.0;0;48;1.22654155495979;2020;6;24;19;3;1;1;Customize blog styles for home, categories, tags, post pages;Customize blog styles for home, categories, tags, post pages
+679007;0;0.0;0;48;1.23324396782842;2020;6;24;19;3;1;1;Add blog links to header and footer;Add blog links to header and footer
+679006;0;0.0;0;48;1.23994638069705;2020;6;24;19;3;1;1;Add open graphs;Add open graphs
+679000;0;0.0;0;48;1.26005361930295;2020;6;24;20;3;1;1;Change url structure for blog posts;Change url structure for blog posts
+678985;0;0.0;0;48;1.32037533512064;2020;6;26;16;5;82;82;Check for errors when the packer builds at the same time (Magento);Check for errors when the packer builds at the same time (Magento)
+702376;0;0.0;0;48;10.0;2020;11;5;15;4;1;1;ipphone problem: push & audit result;ipphone problem: push & audit result
+670929;0;11.0;1;56;10.0;2020;6;12;3;5;2;2;Build one graph according to existing datasets;Build one graph according to existing datasets I wasted much time building one graph by using existing datasets.
